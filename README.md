@@ -1,4 +1,11 @@
 # Enigma-simulator
+
+<h3> Auteurs :</h3> 
+
+@Sllmon
+
+@FameDoze2Point0
+
 <h3> Introduction :</h3> 
 
 L'application Enigma est un logiciel qui permet de simuler le fonctionnement de la machine ENIGMA I, qui a servi le siècle dernier notamment pendant la Seconde Guerre mondiale pour chiffrer ou déchiffrer les échanges entre les commandants et les soldats Nazis. Notre application est aussi équipée pour attaquer un message, c'est-à-dire qu'elle permet de trouver la clé d'un message chiffré.
